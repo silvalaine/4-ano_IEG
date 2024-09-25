@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 # INSTITUTO EDUCACIONAL GONZAGA
+<html lang="pt-br">
+
 <head>
 <meta charset="utf-8">
 </head>
