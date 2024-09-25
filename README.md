@@ -12,9 +12,13 @@ Tema: DESCUBRA A PALAVRA<br>
 DICA: PALAVRAS DE TECNOLOGIA E PARTES DO COMPUTADOR<br>
 
 Clique no nome do aluno para acessar o jogo</p>
-<a href="https://silvalaine.github.io/1-ano_IEG/ALBERT_E_CARLOS/">ALBERT E CARLOS</a><br>
-<a href="https://silvalaine.github.io/1-ano_IEG/ANTONELLA_E_YASMIN/">ANTONELLA E YASMIN</a><br>
-<a href="https://silvalaine.github.io/1-ano_IEG/DAVI_E_GABRIEL/">DAVI E GABRIEL</a><br>
-<a href="https://silvalaine.github.io/1-ano_IEG/MARIA_EDUARDA_E_HENRIQUE/">MARIA EDUARDA E HENRIQUE</a><br>
-<a href="https://silvalaine.github.io/1-ano_IEG/MARIA_ISABELLA_E_AMANDA/">MARIA ISABELLA E AMANDA</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/BRUNA_E_MIRELLA/">BRUNA_E_MIRELLA</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/ESTER_E_THEO/">ESTER E THEO</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/GUSTAVO_E_RAPHAEL/">GUSTAVO E RAPHAEL</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/HELOISE_E_RAYNARA/">HELOISE E RAYNARA</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/JULIA_E_VALENTINA/">JULIA E VALENTINA</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/LETICIA_E_MILENA/">LETICIA E MILENA</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/MIGUEL/">MIGUEL</a><br>
+<a href="https://silvalaine.github.io/4-ano_IEG/SOPHIA_E_ANNA_CLARA/">SOPHIA E ANNA CLARA</a><br>
+
 
