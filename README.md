@@ -1,9 +1,9 @@
 # INSTITUTO EDUCACIONAL GONZAGA
 <html lang="pt-br">
 
-<head>
-<meta charset="utf-8">
-</head>
+<html lang=”pt-br”>
+
+
 Aula de informática IEG - 4º ANO
 <img src="LOGO PNG.png" width="30%">
 
