@@ -4,11 +4,12 @@
 <head>
 <meta charset="utf-8">
 </head>
-Aula de informática IEG - 1º ANO
+Aula de informática IEG - 4º ANO
 <img src="LOGO PNG.png" width="30%">
 
 <p>Trabalho realizado na aula de informática no dia 24/09/2024<br>
-Tema: Forca do r e rr<br>
+Tema: DESCUBRA A PALAVRA<br>
+DICA: PALAVRAS DE TECNOLOGIA E PARTES DO COMPUTADOR<br>
 
 Clique no nome do aluno para acessar o jogo</p>
 <a href="https://silvalaine.github.io/1-ano_IEG/ALBERT_E_CARLOS/">ALBERT E CARLOS</a><br>
